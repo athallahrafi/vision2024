@@ -1,0 +1,6 @@
+node_modules/
+venv/
+build/
+temp/
+hailo_zoo_venv/
+yolo8_env/
